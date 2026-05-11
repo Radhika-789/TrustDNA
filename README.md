@@ -53,10 +53,6 @@ Make sure you have [Node.js](https://nodejs.org/) (version 18 or higher recommen
 - `src/index.css` & `src/App.jsx`: Core setup and routing logic.
 - `public/`: Static assets like images or placeholder files (e.g., sample APKs).
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to coordinate with the team and submit Pull Requests.
-
 ## 📄 License
 
 This project is open-source and available for the hackathon team!
